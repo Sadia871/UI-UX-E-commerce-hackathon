@@ -18,17 +18,17 @@ const socialsData: SocialNetworks[] = [
   {
     id: 2,
     icon: <FaFacebookF />,
-    url: "https://facebook.com",
+    url: "https://www.facebook.com/sadiasaleem871/",
   },
   {
     id: 3,
     icon: <FaInstagram />,
-    url: "https://instagram.com",
+    url: "https://instagram.com/sadia_saleem_871/",
   },
   {
     id: 4,
     icon: <FaGithub />,
-    url: "https://github.com/mohammadoftadeh",
+    url: "https://github.com/Sadia871",
   },
 ];
 
@@ -105,18 +105,18 @@ const Footer = () => {
             <p className="text-sm text-center sm:text-left text-black/60 mb-4 sm:mb-0 sm:mr-1">
               Shop.co © Made by{" "}
               <Link
-                href="https://github.com/mohammadoftadeh"
+                href="https://github.com/Sadia871"
                 className="text-black font-medium"
               >
-                Mohammad Oftadeh
+                Saadi--
               </Link>
               {", "}
               Designed by{" "}
               <Link
-                href="https://www.figma.com/@hamzauix"
+                href="https://www.figma.com/files/team/1207054524194339560/user/1207054515818218412?fuid=1207054515818218412"
                 className="text-black font-medium"
               >
-                Hamza Naeem
+                Sadia Saleem
               </Link>
             </p>
             <div className="flex items-center">
